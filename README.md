@@ -150,10 +150,10 @@ Aplicación web moderna y responsiva desarrollada para la clase de **Psicología
 
 ```bash
 # 1. Clonar el repositorio
-git clone <repository-url>
+git clone https://github.com/AnderssonProgramming/tech-addiction-wa
 
 # 2. Navegar al directorio
-cd technology-society
+cd tech-addiction-wa
 
 # 3. Instalar dependencias
 npm install
@@ -342,7 +342,7 @@ Research & Documentation
 **Institución:** Escuela Colombiana de Ingeniería Julio Garavito  
 **Asignatura:** Psicología Social  
 **Grupo:** 7  
-**Semestre:** 7° (2024-3)  
+**Semestre:** 7° (2025-2)  
 **Tema:** Impacto de la Tecnología en la Sociedad Moderna
 
 ---
@@ -365,7 +365,6 @@ Este proyecto es de uso **educativo y académico**. Desarrollado como proyecto d
 
 ## 🙏 Agradecimientos
 
-- Profesores de Psicología Social de la Escuela Colombiana de Ingeniería
 - Comunidad de React y TypeScript
 - Creadores de Vite y Tailwind CSS
 
