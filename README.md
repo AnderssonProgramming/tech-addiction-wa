@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 Adicción Digital - Plataforma Educativa Interactiva
 
 <div align="center">
@@ -379,6 +378,3 @@ Este proyecto es de uso **educativo y académico**. Desarrollado como proyecto d
 ⭐ Si te gustó este proyecto, considera darle una estrella ⭐
 
 </div>
-=======
-# tech-addiction-wa
->>>>>>> 739f8c6fca225be2083f8ec7bdb18d42d8681ce7
