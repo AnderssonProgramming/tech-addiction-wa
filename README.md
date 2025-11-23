@@ -9,7 +9,7 @@
 
 **Presentación educativa interactiva sobre la adicción a la tecnología e internet**
 
-[🚀 Demo en Vivo](#) • [📖 Documentación](#-estructura-del-proyecto) • [🎥 Video](#-características)
+[🚀 Demo en Vivo](https://tech-addiction-wa.vercel.app) • [📖 Documentación](#-estructura-del-proyecto)
 
 </div>
 
